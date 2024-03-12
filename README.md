@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+an+aspiring+DataScientist;and+Competitive+Coder)](https://git.io/typing-svg)
 
 **TECHNOLOGIES I WORK WITH**
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
 ![Matplotlib](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Matplotlib&logoColor=blue)
 ![Scikit-Learn](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Scikit-Learn&logoColor=blue)
