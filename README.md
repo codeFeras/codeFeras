@@ -7,9 +7,9 @@
 **TECHNOLOGIES I WORK WITH**
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
-![Matplotlib](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Matplotlib&logoColor=blue)
-![Scikit-Learn](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Scikit-Learn&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=TensorFlow-Learn&logoColor=ff8e00)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=Matplotlib&logoColor=blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-blue?style=for-the-badge&logo=Scikit-Learn&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge&logo=TensorFlow-Learn&logoColor=ff8e00)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
